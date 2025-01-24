@@ -13,11 +13,13 @@ class Solution {
             }
            
         }
+        //For Missing Number
          for(int index=0;index<arr.length;index++)
             {
                 if(arr[index]!=index)
                 return index;
             }
+            // For case 2 Where the the given number has noindex or out of  boounds
         return arr.length;
     }
     void swap(int []arr,int first,int second)
