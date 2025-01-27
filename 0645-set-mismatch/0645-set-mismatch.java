@@ -17,6 +17,7 @@ class Solution {
         {
             if(nums[index]!=index+1)
             {
+                // for returning the Duplicate and Missing number
                 return new int []{nums[index],index+1};
             }
         }return new int []{-1,-1};
