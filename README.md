@@ -59,6 +59,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sanjaydeepak/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/sanjaydeepak/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaydeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sanjaydeepak/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
@@ -69,4 +70,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sanjaydeepak/leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/sanjaydeepak/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
