@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjaydeepak/leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaydeepak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/sanjaydeepak/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjaydeepak/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanjaydeepak/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanjaydeepak/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjaydeepak/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjaydeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanjaydeepak/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjaydeepak/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjaydeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
@@ -71,4 +74,12 @@ A collection of LeetCode questions
 | ------- |
 | [0242-valid-anagram](https://github.com/sanjaydeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaydeepak/leetcode/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanjaydeepak/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanjaydeepak/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
