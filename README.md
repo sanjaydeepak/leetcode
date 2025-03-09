@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjaydeepak/leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjaydeepak/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaydeepak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sanjaydeepak/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjaydeepak/leetcode/tree/master/0217-contains-duplicate) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjaydeepak/leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjaydeepak/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanjaydeepak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaydeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
