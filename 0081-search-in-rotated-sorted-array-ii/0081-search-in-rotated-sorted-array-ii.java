@@ -10,12 +10,14 @@ class Solution {
        {
         return true;
        }
+       // Handle The Duplicate Values
        if(arr[start]==arr[mid]&&arr[mid]==arr[end])
        {
         start++;
         end--;
         continue;
        }
+       //Handle the first Sorted Array
        if(arr[start]<=arr[mid])
        {
         if(target>=arr[start]&&target<=arr[mid])
@@ -26,6 +28,7 @@ class Solution {
             start=mid+1;
         }
        }
+       //Handle the Second Half of the sorted Array
        else{
        if(target>=arr[mid]&&target<=arr[end])
        {
