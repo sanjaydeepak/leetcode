@@ -43,6 +43,7 @@ A collection of LeetCode questions
 | ------- |
 | [0009-palindrome-number](https://github.com/sanjaydeepak/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/sanjaydeepak/leetcode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sanjaydeepak/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaydeepak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/sanjaydeepak/leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -84,4 +86,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanjaydeepak/leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sanjaydeepak/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sanjaydeepak/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
