@@ -41,6 +41,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sanjaydeepak/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjaydeepak/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sanjaydeepak/leetcode/tree/master/1013-fibonacci-number) |
