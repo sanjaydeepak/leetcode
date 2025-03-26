@@ -82,12 +82,14 @@ A collection of LeetCode questions
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaydeepak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/sanjaydeepak/leetcode/tree/master/1013-fibonacci-number) |
+| [2001-jump-game-vii](https://github.com/sanjaydeepak/leetcode/tree/master/2001-jump-game-vii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sanjaydeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaydeepak/leetcode/tree/master/0344-reverse-string) |
+| [2001-jump-game-vii](https://github.com/sanjaydeepak/leetcode/tree/master/2001-jump-game-vii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,4 +114,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Sliding Window
+|  |
+| ------- |
+| [2001-jump-game-vii](https://github.com/sanjaydeepak/leetcode/tree/master/2001-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2001-jump-game-vii](https://github.com/sanjaydeepak/leetcode/tree/master/2001-jump-game-vii) |
 <!---LeetCode Topics End-->
