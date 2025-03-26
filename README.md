@@ -20,6 +20,7 @@ A collection of LeetCode questions
 | [0645-set-mismatch](https://github.com/sanjaydeepak/leetcode/tree/master/0645-set-mismatch) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanjaydeepak/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2554-minimum-total-distance-traveled](https://github.com/sanjaydeepak/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sanjaydeepak/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/sanjaydeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/sanjaydeepak/leetcode/tree/master/0645-set-mismatch) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2554-minimum-total-distance-traveled](https://github.com/sanjaydeepak/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions
 | [1013-fibonacci-number](https://github.com/sanjaydeepak/leetcode/tree/master/1013-fibonacci-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanjaydeepak/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2001-jump-game-vii](https://github.com/sanjaydeepak/leetcode/tree/master/2001-jump-game-vii) |
+| [2554-minimum-total-distance-traveled](https://github.com/sanjaydeepak/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## String
 |  |
