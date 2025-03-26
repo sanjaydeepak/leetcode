@@ -17,6 +17,7 @@ A collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/sanjaydeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sanjaydeepak/leetcode/tree/master/0645-set-mismatch) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sanjaydeepak/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sanjaydeepak/leetcode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sanjaydeepak/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaydeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/sanjaydeepak/leetcode/tree/master/0645-set-mismatch) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sanjaydeepak/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
