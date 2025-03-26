@@ -22,6 +22,7 @@ A collection of LeetCode questions
 | [0780-max-chunks-to-make-sorted](https://github.com/sanjaydeepak/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanjaydeepak/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2465-shifting-letters-ii](https://github.com/sanjaydeepak/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2554-minimum-total-distance-traveled](https://github.com/sanjaydeepak/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sanjaydeepak/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions
 | [0344-reverse-string](https://github.com/sanjaydeepak/leetcode/tree/master/0344-reverse-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanjaydeepak/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2001-jump-game-vii](https://github.com/sanjaydeepak/leetcode/tree/master/2001-jump-game-vii) |
+| [2465-shifting-letters-ii](https://github.com/sanjaydeepak/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2001-jump-game-vii](https://github.com/sanjaydeepak/leetcode/tree/master/2001-jump-game-vii) |
+| [2465-shifting-letters-ii](https://github.com/sanjaydeepak/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Linked List
 |  |
 | ------- |
