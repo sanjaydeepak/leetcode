@@ -26,6 +26,7 @@ A collection of LeetCode questions
 | [2554-minimum-total-distance-traveled](https://github.com/sanjaydeepak/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sanjaydeepak/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2716-prime-subtraction-operation](https://github.com/sanjaydeepak/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions
 | [0374-guess-number-higher-or-lower](https://github.com/sanjaydeepak/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanjaydeepak/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/sanjaydeepak/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions
 | [1013-fibonacci-number](https://github.com/sanjaydeepak/leetcode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sanjaydeepak/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2716-prime-subtraction-operation](https://github.com/sanjaydeepak/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/sanjaydeepak/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanjaydeepak/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2716-prime-subtraction-operation](https://github.com/sanjaydeepak/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Stack
 |  |
 | ------- |
@@ -161,4 +165,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/sanjaydeepak/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/sanjaydeepak/leetcode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
