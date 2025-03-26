@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/sanjaydeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sanjaydeepak/leetcode/tree/master/0645-set-mismatch) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanjaydeepak/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sanjaydeepak/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions
 | [0287-find-the-duplicate-number](https://github.com/sanjaydeepak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaydeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/sanjaydeepak/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanjaydeepak/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaydeepak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/sanjaydeepak/leetcode/tree/master/1013-fibonacci-number) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanjaydeepak/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2001-jump-game-vii](https://github.com/sanjaydeepak/leetcode/tree/master/2001-jump-game-vii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## String
@@ -130,4 +133,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjaydeepak/leetcode/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanjaydeepak/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 <!---LeetCode Topics End-->
