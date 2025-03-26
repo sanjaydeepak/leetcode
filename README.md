@@ -48,6 +48,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanjaydeepak/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanjaydeepak/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjaydeepak/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanjaydeepak/leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/sanjaydeepak/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2001-jump-game-vii](https://github.com/sanjaydeepak/leetcode/tree/master/2001-jump-game-vii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanjaydeepak/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
