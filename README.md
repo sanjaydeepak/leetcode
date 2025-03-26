@@ -27,6 +27,7 @@ A collection of LeetCode questions
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sanjaydeepak/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/sanjaydeepak/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions
 | [2554-minimum-total-distance-traveled](https://github.com/sanjaydeepak/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sanjaydeepak/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
