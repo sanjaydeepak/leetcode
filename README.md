@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanjaydeepak/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjaydeepak/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjaydeepak/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanjaydeepak/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sanjaydeepak/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjaydeepak/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjaydeepak/leetcode/tree/master/0242-valid-anagram) |
