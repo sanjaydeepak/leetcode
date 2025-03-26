@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/sanjaydeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sanjaydeepak/leetcode/tree/master/0645-set-mismatch) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sanjaydeepak/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanjaydeepak/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2554-minimum-total-distance-traveled](https://github.com/sanjaydeepak/leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaydeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/sanjaydeepak/leetcode/tree/master/0645-set-mismatch) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sanjaydeepak/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanjaydeepak/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2554-minimum-total-distance-traveled](https://github.com/sanjaydeepak/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -140,5 +142,14 @@ A collection of LeetCode questions
 ## Greedy
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/sanjaydeepak/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanjaydeepak/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/sanjaydeepak/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/sanjaydeepak/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
