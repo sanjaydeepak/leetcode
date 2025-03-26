@@ -47,6 +47,7 @@ A collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/sanjaydeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sanjaydeepak/leetcode/tree/master/0645-set-mismatch) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanjaydeepak/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjaydeepak/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sanjaydeepak/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -102,6 +103,7 @@ A collection of LeetCode questions
 | ------- |
 | [0242-valid-anagram](https://github.com/sanjaydeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaydeepak/leetcode/tree/master/0344-reverse-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanjaydeepak/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2001-jump-game-vii](https://github.com/sanjaydeepak/leetcode/tree/master/2001-jump-game-vii) |
 ## Divide and Conquer
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanjaydeepak/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2001-jump-game-vii](https://github.com/sanjaydeepak/leetcode/tree/master/2001-jump-game-vii) |
 ## Prefix Sum
 |  |
