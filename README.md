@@ -93,6 +93,7 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sanjaydeepak/leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/sanjaydeepak/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sanjaydeepak/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sanjaydeepak/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjaydeepak/leetcode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/sanjaydeepak/leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/sanjaydeepak/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sanjaydeepak/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
