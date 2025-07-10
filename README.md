@@ -7,6 +7,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjaydeepak/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjaydeepak/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjaydeepak/leetcode/tree/master/0035-search-insert-position) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjaydeepak/leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/sanjaydeepak/leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjaydeepak/leetcode/tree/master/0142-linked-list-cycle-ii) |
