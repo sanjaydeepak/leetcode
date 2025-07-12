@@ -48,6 +48,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjaydeepak/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sanjaydeepak/leetcode/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjaydeepak/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sanjaydeepak/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjaydeepak/leetcode/tree/master/0217-contains-duplicate) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions
 | [0002-add-two-numbers](https://github.com/sanjaydeepak/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanjaydeepak/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjaydeepak/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sanjaydeepak/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sanjaydeepak/leetcode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sanjaydeepak/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sanjaydeepak/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/sanjaydeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaydeepak/leetcode/tree/master/0344-reverse-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanjaydeepak/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
