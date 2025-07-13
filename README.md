@@ -14,6 +14,7 @@ A collection of LeetCode questions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjaydeepak/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaydeepak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sanjaydeepak/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sanjaydeepak/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjaydeepak/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sanjaydeepak/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sanjaydeepak/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanjaydeepak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/sanjaydeepak/leetcode/tree/master/0645-set-mismatch) |
