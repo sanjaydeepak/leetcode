@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjaydeepak/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjaydeepak/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaydeepak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sanjaydeepak/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjaydeepak/leetcode/tree/master/0217-contains-duplicate) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sanjaydeepak/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjaydeepak/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjaydeepak/leetcode/tree/master/0242-valid-anagram) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjaydeepak/leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/sanjaydeepak/leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/sanjaydeepak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjaydeepak/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sanjaydeepak/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sanjaydeepak/leetcode/tree/master/0234-palindrome-linked-list) |
