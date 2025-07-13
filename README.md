@@ -127,6 +127,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sanjaydeepak/leetcode/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/sanjaydeepak/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/sanjaydeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaydeepak/leetcode/tree/master/0344-reverse-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanjaydeepak/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
